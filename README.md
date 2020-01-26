@@ -8,5 +8,7 @@ Some of the codes are borrowed from various places.
 
 BTW, my goto language when programming is actually Perl :)
 
+Some of the descriptions are in Bahasa Indonesia. In fact, I am going to make it the default.
+
 -- budi, JAPH
 @rahard
