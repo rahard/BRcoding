@@ -6,5 +6,7 @@ I need to keep these codes so that I can look it up when needed,
 usually simple syntax that I forgot.
 Some of the codes are borrowed from various places.
 
--- budi
+BTW, my goto language when programming is actually Perl :)
+
+-- budi, JAPH
 @rahard
