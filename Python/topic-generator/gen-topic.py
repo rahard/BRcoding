@@ -31,5 +31,4 @@ print("There are", len(topics), "topics")
 # pick a random topic
 import random
 n = random.randint(0,len(topics)-1)
-print(n)
-print(topics[n])
+print(n, topics[n])

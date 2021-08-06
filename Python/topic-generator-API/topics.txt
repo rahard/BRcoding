@@ -24,7 +24,28 @@ Punya teman on-line yang belum pernah Anda temui secara langsung
 --
 Adakah film yang pernah Anda tonton berulang kali?
 --
+Adakah buku yang pernah Anda baca berulang kali?
+--
 Guru yang paling berkesan bagi Anda
 --
-Makanan yang paling pedas yang pernah Anda Makanan
+Makanan yang paling pedas yang pernah Anda Makanan.
+Kepedasannya level berapa (kalau ada levelnya)
+--
+Lebih suka kopi atau teh? Atau tidak suka keduanya
+--
+Lagu yang paling panjang (lama) yang pernah Anda dengarkan
+--
+Alat musik apa yang dapat Anda mainkan?
+--
+Pernahkah terlibat dalam sebuah acara pentas seni
+--
+Olahraga apa yang paling Anda sukai
+--
+Pernahkah berenang dan terminum air kolam renang
+--
+Penyakit yang terberat yang pernah Anda derita
+--
+Olah raga apa yang paling menyebalkan
+-- 
+Prestasi Anda di bidang olah raga atau seni
 --
