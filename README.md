@@ -10,8 +10,8 @@ BTW, my goto language when programming is actually Perl :)  but lately I've been
 
 Some of the descriptions are in Bahasa Indonesia. In fact, I am going to make it the default.
 
-started: forgot
+started: forgot<br>
 last updated: Aug, 2021
 
--- budi, JAPH, but this time it means Just Another Python Hacker
+-- budi, JAPH, but this time it means Just Another Python Hacker<br>
 @rahard
