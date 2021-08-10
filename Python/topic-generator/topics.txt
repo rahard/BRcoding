@@ -65,4 +65,40 @@ Tempat terdingin yang pernah Anda kunjungi (diami)
 --
 Minuman kesukaan
 --
+Apakah cara penanganan pademi COVID-19 di Indonesia sudah baik
+--
+Apa pakaian kesukaan Anda
+--
+Apa makanan favorit Anda
+--
+Indomie atau Mie Sedap
+--
+Seberapa sering Anda membeli pakaian
+--
+Ketika kecil (SD), lagu apa yang berkesan bagi Anda
+--
+Mata pelajaran apa yang paling menarik di SD
+--
+Jika Anda pemain gitar, pilih mana: Fender atau Gibson
+--
+Siapa pemain sepak bola pilihan Anda
+--
+Kota apa di Indonesia yang paling indah
+--
+Yang benar itu martabak manis atau terang bulan
+--
+Apakah manusia akan dikalahkan oleh AI (Artificial Intelligence)
+--
+Apa nama jalan yang paling lucu
+--
+Siapa atlit olahraga yang paling Anda kagumi
+--
+Binatang apa yang paling lucu
+--
+Apa klub sepakbola favorit Anda
+--
+Apakah Anda tahu nama-nama bintang di langit
+--
+Apakah Anda memiliki kakak atau adik
+--
 
