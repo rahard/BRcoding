@@ -6,7 +6,7 @@ I need to keep these codes so that I can look it up when needed,
 usually simple syntax that I forgot.
 Some of the codes are borrowed from various places.
 
-BTW, my goto language when programming is actually Perl :)  but lately I've been coding with Python.
+BTW, my goto language when programming is actually Perl :)  but lately I've been coding with Python. Thus, you'll see more Python codes in this space.
 
 Some of the descriptions are in Bahasa Indonesia. In fact, I am going to make it the default.
 
