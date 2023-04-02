@@ -71,7 +71,7 @@ Apa pakaian kesukaan Anda
 --
 Apa makanan favorit Anda
 --
-Indomie atau Mie Sedap
+Pilih Indomie atau Mie Sedap
 --
 Seberapa sering Anda membeli pakaian
 --
@@ -120,5 +120,7 @@ Berapa jam tidur dalam satu hari
 Pernah begadang (tidak tidur) karena tugas apa
 --
 Topik bahasan apa yang ingin Anda pelajari di internet
+--
+Apakah Artificial Intelligence (AI) dapat menggantikan manusia
 --
 
